@@ -1,0 +1,13 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 310626674736654052,
+  "formatVersion" : 0,
+  "locale" : "fr-FR",
+  "productLibraryDir" : "C:\\Users\\jauri\\AppData\\Local\\Mojang\\products",
+  "quickPlayEnabled" : true,
+  "quickPlayMarketplaceDisabled" : false,
+  "useArm64JreIfSupported" : false,
+  "useMagnifiedMode" : false,
+  "version" : 8
+}

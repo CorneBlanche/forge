@@ -1,0 +1,36 @@
+[0223/183224.643:INFO:main_context.cpp(131)] CEF initialized successfully.
+[0223/183224.643:INFO:main_context.cpp(133)] CEF version: 99.2.14+g3f796b8+chromium-99.0.4844.84
+[0223/183228.082:INFO:CONSOLE(2)] "Skipping acting on uninitialized treatment tags", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/183425.412:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0223/191745.494:INFO:CONSOLE(2)] "The object key "width" is not a valid nested key in Fela.
+Maybe you forgot to add a plugin to resolve it?
+Check http://fela.js.org/docs/basics/Rules.html#styleobject for more information.", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/191745.565:INFO:CONSOLE(2)] "The object key "width" is not a valid nested key in Fela.
+Maybe you forgot to add a plugin to resolve it?
+Check http://fela.js.org/docs/basics/Rules.html#styleobject for more information.", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/191745.618:INFO:CONSOLE(2)] "The object key "width" is not a valid nested key in Fela.
+Maybe you forgot to add a plugin to resolve it?
+Check http://fela.js.org/docs/basics/Rules.html#styleobject for more information.", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/191745.645:INFO:CONSOLE(2)] "The object key "width" is not a valid nested key in Fela.
+Maybe you forgot to add a plugin to resolve it?
+Check http://fela.js.org/docs/basics/Rules.html#styleobject for more information.", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/191746.092:INFO:CONSOLE(2)] "The object key "width" is not a valid nested key in Fela.
+Maybe you forgot to add a plugin to resolve it?
+Check http://fela.js.org/docs/basics/Rules.html#styleobject for more information.", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/191746.122:INFO:CONSOLE(2)] "The object key "width" is not a valid nested key in Fela.
+Maybe you forgot to add a plugin to resolve it?
+Check http://fela.js.org/docs/basics/Rules.html#styleobject for more information.", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/191747.609:INFO:CONSOLE(2)] "The object key "width" is not a valid nested key in Fela.
+Maybe you forgot to add a plugin to resolve it?
+Check http://fela.js.org/docs/basics/Rules.html#styleobject for more information.", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/191747.621:INFO:CONSOLE(2)] "The object key "width" is not a valid nested key in Fela.
+Maybe you forgot to add a plugin to resolve it?
+Check http://fela.js.org/docs/basics/Rules.html#styleobject for more information.", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/191748.556:INFO:CONSOLE(2)] "The object key "width" is not a valid nested key in Fela.
+Maybe you forgot to add a plugin to resolve it?
+Check http://fela.js.org/docs/basics/Rules.html#styleobject for more information.", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/191748.569:INFO:CONSOLE(2)] "The object key "width" is not a valid nested key in Fela.
+Maybe you forgot to add a plugin to resolve it?
+Check http://fela.js.org/docs/basics/Rules.html#styleobject for more information.", source: https://mojang/launcher/static/js/app.da12d7f8.bundle.js (2)
+[0223/193230.769:INFO:LauncherAppRenderer.cpp(546)] OnContextReleased: no frame (unknown context), browser id=1
+[0223/193231.111:INFO:LauncherAppRenderer.cpp(73)] OnBrowserDestroyed: id=1
